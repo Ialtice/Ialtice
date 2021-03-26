@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Isaac Altice
-- 👀 I’m interested in learning everything I can but a 
+- 👀 I’m interested in learning everything I can but right now im focusing on advancing my Python skills
 - 🌱 I’m currently learning Python, Java, C++
 - 💞️ I’m looking to collaborate on anything but I really would like to be a part of the financial and blockchain industries
 - 📫 How to reach me https://www.linkedin.com/in/isaac-altice-015a6317a/
